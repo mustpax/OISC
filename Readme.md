@@ -3,7 +3,8 @@
 This is a VM and assembler for an experimental [One Instruction Set Computer][oisc]. 
 
 We implemented this for a Computer Architecture course final project back in 2005
-with my good friend Adem Kader.
+with my good friend Adem Kader. It's one of the first significant chunks of Java
+I've written so you'll notice some peculiarities in terms of style.
 Not included in this project, there was also a VHDL based hardware implementation
 of the OISC processor that ran on an [FPGA][].
 
